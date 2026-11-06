@@ -1,0 +1,6 @@
+{
+  "name": "Lubumbashi Express",
+  "description": "Plateforme de livraison multi-services, colis et courriers sécurisés par code PIN/OTP à Lubumbashi (RDC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
